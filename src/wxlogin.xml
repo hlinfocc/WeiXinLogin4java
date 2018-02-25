@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<!-- 微信公众号APPID -->
+	<appid></appid>
+	<!-- 微信公众号appSecret -->
+	<appSecret></appSecret>
+</root>
